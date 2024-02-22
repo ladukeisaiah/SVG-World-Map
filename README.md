@@ -2,7 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
 It is a project for My class at WGU for D280 Javascript Fundamentals. It is an SVG map designed to query
-'worldbank.org' for its information on selected countries and return that data on the same screen.
+'worldbank.org' for its information on selected countries and return that data on the same screen and show
+relevant skills using Rest APIs.
 
 ## Development server
 
